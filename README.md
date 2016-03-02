@@ -24,13 +24,20 @@ To understand how distributed applications are developed guaranteeing non functi
 
 #### Sun RPC
 
+* Distribute an originally centralized application using the SUN RPC
+* Increase knowledge of RPC
+
 [Source](http://disciplinas.tecnico.ulisboa.pt/leic-sod/2015-2016/labs/03-rpc/index.html) (PT)
 
 [Solution](https://github.com/FMCalisto/ttt-web-service-noughts-crosses-game-2)
 
 #### Java RMI
 
-[Source]() (PT)
+* Distribute an originally centralized application using Java RMI
+* Increase knowledge of Java RMI
+* Make contact with the classes crossing mechanisms of Java RMI
+
+[Source](http://disciplinas.tecnico.ulisboa.pt/leic-sod/2015-2016/labs/04-rmi/index.html) (PT)
 
 [Solution]()
 
