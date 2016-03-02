@@ -14,43 +14,47 @@ To understand how distributed applications are developed guaranteeing non functi
 
 #### Tools
 
-[Source]()
+* Using Maven to build Java projects
+* Use Eclipse to program and debug Java projects
+* Use sockets to transfer data between client and server
 
-[Solution]()
+[Source](http://disciplinas.tecnico.ulisboa.pt/leic-sod/2015-2016/labs/02-tools/index.html) (PT)
+
+[Solution](https://github.com/FMCalisto/socket-client-server)
 
 #### Sun RPC
 
-[Source]()
+[Source](http://disciplinas.tecnico.ulisboa.pt/leic-sod/2015-2016/labs/03-rpc/index.html) (PT)
 
-[Solution]()
+[Solution](https://github.com/FMCalisto/ttt-web-service-noughts-crosses-game-2)
 
 #### Java RMI
 
-[Source]()
+[Source]() (PT)
 
 [Solution]()
 
 #### Web Services Implementation-First
 
-[Source]()
+[Source]() (PT)
 
 [Solution]()
 
 #### Web Services Contract-First
 
-[Source]()
+[Source]() (PT)
 
 [Solution]()
 
 #### Web Services Tests
 
-[Source]()
+[Source]() (PT)
 
 [Solution]()
 
 #### Advanced Web Services | Cryptography
 
-[Source]()
+[Source]() (PT)
 
 [Solution]()
 
