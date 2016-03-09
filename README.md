@@ -29,7 +29,7 @@ To understand how distributed applications are developed guaranteeing non functi
 
 [Source](http://disciplinas.tecnico.ulisboa.pt/leic-sod/2015-2016/labs/03-rpc/index.html) (PT)
 
-[Solution](https://github.com/FMCalisto/ttt-web-service-noughts-crosses-game-2)
+[Solution](https://github.com/FMCalisto/ttt-sun-rpc-noughts-crosses-game)
 
 #### Java RMI
 
