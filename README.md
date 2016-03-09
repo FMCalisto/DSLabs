@@ -39,7 +39,7 @@ To understand how distributed applications are developed guaranteeing non functi
 
 [Source](http://disciplinas.tecnico.ulisboa.pt/leic-sod/2015-2016/labs/04-rmi/index.html) (PT)
 
-[Solution]()
+[Solution](https://github.com/FMCalisto/ttt-java-rmi-noughts-crosses-game)
 
 #### Web Services Implementation-First
 
