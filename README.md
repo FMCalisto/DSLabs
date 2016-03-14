@@ -43,9 +43,9 @@ To understand how distributed applications are developed guaranteeing non functi
 
 #### Web Services Implementation-First
 
-[Source]() (PT)
+[Source](http://disciplinas.tecnico.ulisboa.pt/leic-sod/2015-2016/labs/05-ws1/index.html) (PT)
 
-[Solution]()
+[Solution](https://github.com/FMCalisto/ttt-web-service-noughts-crosses-game-2)
 
 #### Web Services Contract-First
 
