@@ -49,13 +49,13 @@ To understand how distributed applications are developed guaranteeing non functi
 
 #### Web Services Contract-First
 
-[Source]() (PT)
+[Source](http://disciplinas.tecnico.ulisboa.pt/leic-sod/2015-2016/labs/06-ws2/index.html) (PT)
 
-[Solution]()
+[Solution](https://github.com/FMCalisto/web-services-contract-first)
 
 #### Web Services Tests
 
-[Source]() (PT)
+[Source](http://disciplinas.tecnico.ulisboa.pt/leic-sod/2015-2016/labs/07-ws3/index.html) (PT)
 
 [Solution]()
 
