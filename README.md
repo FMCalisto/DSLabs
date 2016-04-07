@@ -57,7 +57,7 @@ To understand how distributed applications are developed guaranteeing non functi
 
 [Source](http://disciplinas.tecnico.ulisboa.pt/leic-sod/2015-2016/labs/07-ws3/index.html) (PT)
 
-[Solution]()
+[Solution](https://github.com/FMCalisto/web-services-tests)
 
 #### Advanced Web Services | Cryptography
 
