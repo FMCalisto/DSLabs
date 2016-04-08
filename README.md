@@ -14,6 +14,8 @@ To understand how distributed applications are developed guaranteeing non functi
 
 #### Tools
 
+##### Goals
+
 * Using Maven to build Java projects
 * Use Eclipse to program and debug Java projects
 * Use sockets to transfer data between client and server
@@ -24,6 +26,8 @@ To understand how distributed applications are developed guaranteeing non functi
 
 #### Sun RPC
 
+##### Goals
+
 * Distribute an originally centralized application using the SUN RPC
 * Increase knowledge of RPC
 
@@ -32,6 +36,8 @@ To understand how distributed applications are developed guaranteeing non functi
 [Solution](https://github.com/FMCalisto/ttt-sun-rpc-noughts-crosses-game)
 
 #### Java RMI
+
+##### Goals
 
 * Distribute an originally centralized application using Java RMI
 * Increase knowledge of Java RMI
@@ -43,17 +49,45 @@ To understand how distributed applications are developed guaranteeing non functi
 
 #### Web Services Implementation-First
 
+##### Goals
+
+- Developing Web Services in Java using the implementation-first approach
+
+- Publish and search Web Services in the name server jUDDI
+
 [Source](http://disciplinas.tecnico.ulisboa.pt/leic-sod/2015-2016/labs/05-ws1/index.html) (PT)
 
 [Solution](https://github.com/FMCalisto/ttt-web-service-noughts-crosses-game-2)
 
 #### Web Services Contract-First
 
+##### Goals
+
+- Develop Web Service using ```contract-first``` approach
+
+##### Project
+
+- Build the ```transporter-ws``` from WSDL contract
+
+- Realising the operation ping
+
+- Build ```broker-ws``` from WSDL contract
+
 [Source](http://disciplinas.tecnico.ulisboa.pt/leic-sod/2015-2016/labs/06-ws2/index.html) (PT)
 
 [Solution](https://github.com/FMCalisto/web-services-contract-first)
 
 #### Web Services Tests
+
+##### Goals
+
+- Developing Web Services testing
+
+##### Project
+
+- Perform unit tests transporter-ws
+
+- Perform integration testing of the transporter-ws
 
 [Source](http://disciplinas.tecnico.ulisboa.pt/leic-sod/2015-2016/labs/07-ws3/index.html) (PT)
 
